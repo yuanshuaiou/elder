@@ -13,5 +13,7 @@
 </script>
 
 <style>
-	/*每个页面公共css */
+/* 引入 Font Awesome */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+/* 您的其他全局样式 */
 </style>
